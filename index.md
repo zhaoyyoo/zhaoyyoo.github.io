@@ -1,6 +1,6 @@
 ## This is Yuanyuan Zhao
 
-![alt logo](https://github.com/zhaoyyoo/zhaoyyoo.github.io/blob/master/pic.jpg)
+<img src="https://github.com/zhaoyyoo/zhaoyyoo.github.io/blob/master/pic.jpg" width="20%">
 
 You can use the [editor on GitHub](https://github.com/zhaoyyoo/zhaoyyoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
