@@ -4,7 +4,7 @@
 
 Hi! My name is Yuanyuan Zhao, studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisceplinary Studies, Peking University.
 
-I have been a research assistant in the Language Computing and Web Mining Group (http://www.icst.pku.edu.cn/lcwm/) since 2017, supervised by Dr. Weiwei Sun (http://wsun106.github.io).
+I have been a research assistant in the [Language Computing and Web Mining Group](http://www.icst.pku.edu.cn/lcwm/) since 2017, supervised by [Dr. Weiwei Sun](http://wsun106.github.io).
 
 My research focuses on deep representations for natural language and Computer Assisted Language Learning (CALL).
 
