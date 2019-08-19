@@ -9,39 +9,16 @@ I have been a research assistant in the Language Computing and Web Mining Group 
 My research focuses on deep representations for natural language and Computer Assisted Language Learning (CALL).
 
 I am looking for an institute to continue my research as a doctor candidate in 2020.
-If you have any advise, please contact me!
+If you have any advise, please contact me (zhao_yy@pku.edu.cn)!
 
 ### Education
 
 - BA of Telecommunication Engineering in Beijing University of Posts and Telecommunications (BUPT)
 
+### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoyyoo/zhaoyyoo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Pre- and In-Parsing Models for Neural Empty Category Detection] (https://aclweb.org/anthology/P18-1250)
+2. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction] (http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf)
+3. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data] (https://aclweb.org/anthology/D18-1414)
