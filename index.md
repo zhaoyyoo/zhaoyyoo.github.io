@@ -19,6 +19,6 @@ If you have any advise, please contact me (zhao_yy@pku.edu.cn)!
 
 ### Publication
 
-1. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data](https://aclweb.org/anthology/D18-1414) (Lin Zi, Yuguang Duan, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), EMNLP 2018
-2. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction](http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf) (**Zhao Yuanyuan**, Nan Jiang, Weiwei Sun, and Xiaojun Wan), NLPCC 2018
-3. [Pre- and In-Parsing Models for Neural Empty Category Detection](https://aclweb.org/anthology/P18-1250) (Chen Yufei, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), ACL 2018
+1. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data](https://aclweb.org/anthology/D18-1414) (Zi Lin, Yuguang Duan, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), EMNLP 2018
+2. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction](http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf) (**Yuanyuan Zhao**, Nan Jiang, Weiwei Sun, and Xiaojun Wan), NLPCC 2018
+3. [Pre- and In-Parsing Models for Neural Empty Category Detection](https://aclweb.org/anthology/P18-1250) (Yufei Chen, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), ACL 2018
