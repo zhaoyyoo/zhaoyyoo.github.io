@@ -2,9 +2,11 @@
 
 <img src="https://github.com/zhaoyyoo/zhaoyyoo.github.io/blob/master/pic.jpg" width="20%">
 
-You can use the [editor on GitHub](https://github.com/zhaoyyoo/zhaoyyoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is Yuanyuan Zhao, studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisceplinary Studies, Peking University.
+I have been a research assiatant in the Language Computing and Web Mining Group (http://www.icst.pku.edu.cn/lcwm/) since 2017, supervised by Dr. Weiwei Sun (http://wsun106.github.io).
+My research focuses on deep representations for natural language and Computer Assisted Language Learning (CALL).
+I am looking for an institute to continue my research as a doctor candidate in 2020.
+If you have any advise, please contact me!
 
 ### Markdown
 
