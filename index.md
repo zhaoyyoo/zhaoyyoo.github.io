@@ -8,7 +8,7 @@ I have been a research assistant in the [Language Computing and Web Mining Group
 
 My research focuses on deep representations for natural language and Computer Assisted Language Learning (CALL).
 
-I am looking for an institute to continue my research as a doctor candidate in 2020.
+I am looking for an institute to continue my research as a phd candidate in 2020.
 If you have any advise, please contact me (zhao_yy@pku.edu.cn)!
 
 ### Education
