@@ -19,6 +19,6 @@ If you have any advise, please contact me (zhao_yy@pku.edu.cn)!
 
 ### Publication
 
-1. [Pre- and In-Parsing Models for Neural Empty Category Detection] (https://aclweb.org/anthology/P18-1250)
-2. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction] (http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf)
-3. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data] (https://aclweb.org/anthology/D18-1414)
+1. [Pre- and In-Parsing Models for Neural Empty Category Detection](https://aclweb.org/anthology/P18-1250)
+2. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction](http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf)
+3. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data](https://aclweb.org/anthology/D18-1414)
