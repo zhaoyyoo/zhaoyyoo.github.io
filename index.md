@@ -13,12 +13,14 @@ If you have any advise, please contact me (zhao_yy@pku.edu.cn)!
 
 ### Education
 
-- BA of Telecommunication Engineering in Beijing University of Posts and Telecommunications (BUPT)
+- BE of Telecommunication Engineering in Beijing University of Posts and Telecommunications (BUPT)
 
 ### Research
 
 ### Publication
 
-1. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data](https://aclweb.org/anthology/D18-1414) (Zi Lin, Yuguang Duan, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), EMNLP 2018
-2. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction](http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf) (**Yuanyuan Zhao**, Nan Jiang, Weiwei Sun, and Xiaojun Wan), NLPCC 2018
-3. [Pre- and In-Parsing Models for Neural Empty Category Detection](https://aclweb.org/anthology/P18-1250) (Yufei Chen, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), ACL 2018
+1. Semantic Parsing for English as a Second Language
+(**Yuanyuan Zhao**, Weiwei Sun, Junjie Cao and Xiaojun Wan), ACL 2020 (Long Paper)
+2. [Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data](https://aclweb.org/anthology/D18-1414) (Zi Lin, Yuguang Duan, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), EMNLP 2018 (Long Paper)
+3. [Overview of the NLPCC 2018 Shared Task: Grammatical Error Correction](http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf) (**Yuanyuan Zhao**, Nan Jiang, Weiwei Sun, and Xiaojun Wan), NLPCC 2018 (Invited Paper)
+4. [Pre- and In-Parsing Models for Neural Empty Category Detection](https://aclweb.org/anthology/P18-1250) (Yufei Chen, **Yuanyuan Zhao**, Weiwei Sun, and Xiaojun Wan), ACL 2018 (Long Paper)
