@@ -1,6 +1,6 @@
 ## Yuanyuan Zhao
 
-<img src="pic.jpg" width="20%">
+<img src="me.jpg" width="20%">
 
 Hi! My name is Yuanyuan Zhao, studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisceplinary Studies, Peking University.
 
