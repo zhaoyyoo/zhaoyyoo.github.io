@@ -2,7 +2,7 @@
 
 <img src="me.jpg" width="20%">
 
-Hi! My name is Yuanyuan Zhao, studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisceplinary Studies, Peking University.
+Hi! My name is Yuanyuan Zhao, studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisciplinary Studies, Peking University.
 
 I have been a research assistant in the [Language Computing and Web Mining Group](http://www.icst.pku.edu.cn/lcwm/) since 2017, supervised by [Dr. Weiwei Sun](http://wsun106.github.io).
 
@@ -14,8 +14,6 @@ If you have any advise, please contact me (zhao_yy@pku.edu.cn)!
 ### Education
 
 - BE of Telecommunication Engineering in Beijing University of Posts and Telecommunications (BUPT)
-
-### Research
 
 ### Publication
 
