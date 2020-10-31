@@ -24,4 +24,4 @@ If you have any advise, please contact me (zhao_yy at pku.edu.cn)!
 4. [Pre- and In-Parsing Models for Neural Empty Category Detection](https://aclweb.org/anthology/P18-1250) (Yufei Chen, **Yuanyuan Zhao**, Weiwei Sun and Xiaojun Wan), ACL 2018 (Long Paper)
 
 ### Others
-1. [Constructing a Family Tree of Ten Indo-European Languages with Delexicalized Cross-linguistic Transfer Patterns](https://arxiv.org/abs/2007.09076)(**Yuanyuan Zhao**, Weiwei Sun and Xiaojun Wan), arXiv:2007.09076
+1. [Constructing a Family Tree of Ten Indo-European Languages with Delexicalized Cross-linguistic Transfer Patterns](https://arxiv.org/abs/2007.09076) (**Yuanyuan Zhao**, Weiwei Sun and Xiaojun Wan), arXiv:2007.09076
