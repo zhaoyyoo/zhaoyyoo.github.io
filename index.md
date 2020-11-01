@@ -2,7 +2,7 @@
 
 <img src="me.jpg" width="20%">
 
-Hi! My name is Yuanyuan Zhao, studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisciplinary Studies, Peking University.
+Hi! My name is Yuanyuan Zhao and I am studying for my master degree of Data Science (Computer Science and Technology) in Academy for Advanced Interdisciplinary Studies, Peking University.
 
 I have been a research assistant in the Language Computing and Web Mining Group since 2017, supervised by [Dr. Weiwei Sun](https://www.cl.cam.ac.uk/~ws390/) and [Prof. Xiaojun Wan](https://wanxiaojun.github.io/).
 
