@@ -6,10 +6,12 @@ Hi! My name is Yuanyuan Zhao and I am studying for my master degree of Data Scie
 
 I have been a research assistant in the Language Computing and Web Mining Group since 2017, supervised by [Dr. Weiwei Sun](https://www.cl.cam.ac.uk/~ws390/) and [Prof. Xiaojun Wan](https://wanxiaojun.github.io/).
 
-My research focuses on deep representations for natural language and Computer Assisted Language Learning (CALL).
+My research focuses on deep representations for natural language (especially [Interlanguage](https://en.wikipedia.org/wiki/Interlanguage)) and their applications in [Computer Assisted Language Learning (CALL)](https://en.wikipedia.org/wiki/Computer-assisted_language_learning).
 
-I am looking for an institute to continue my research as a phd candidate in 2021.
-If you have any advise, please contact me (zhao_yy at pku.edu.cn)!
+~~I am looking for an institute to continue my research as a phd candidate in 2021.
+If you have any advise, please contact me (zhao_yy at pku.edu.cn)!~~
+I am going to join [Shandong Provincial Education Department](http://edu.shandong.gov.cn/) in 2021.
+See you in Jinan!
 
 ### Education
 
