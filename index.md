@@ -13,7 +13,7 @@ If you have any advise, please contact me (zhao_yy at pku.edu.cn)!~~
 
 I am going to join [Shandong Provincial Education Department](http://edu.shandong.gov.cn/) in 2021.
 
-See you in Jinan!
+See you in [Jinan](http://www.jinan.gov.cn/col/col28/index.html)!
 
 ### Education
 
