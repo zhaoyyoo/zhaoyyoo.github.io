@@ -11,7 +11,7 @@ My research focuses on deep representations for natural language (especially [In
 ~~I am looking for an institute to continue my research as a phd candidate in 2021.
 If you have any advise, please contact me (zhao_yy at pku.edu.cn)!~~
 
-I am going to join [Shandong Provincial Education Department](http://edu.shandong.gov.cn/) in 2021.
+I am going to join the [Shandong Provincial Education Department](http://edu.shandong.gov.cn/) in 2021.
 
 See you in [Jinan](http://www.jinan.gov.cn/col/col28/index.html)!
 
