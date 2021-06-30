@@ -8,9 +8,6 @@ I have been a research assistant in the Language Computing and Web Mining Group 
 
 My research focuses on deep representations for natural language (especially [Interlanguage](https://en.wikipedia.org/wiki/Interlanguage)) and their applications in [Computer Assisted Language Learning (CALL)](https://en.wikipedia.org/wiki/Computer-assisted_language_learning).
 
-~~I am looking for an institute to continue my research as a phd candidate in 2021.
-If you have any advise, please contact me (zhao_yy at pku.edu.cn)!~~
-
 I am going to join the [Shandong Provincial Education Department](http://edu.shandong.gov.cn/) in 2021.
 
 See you in [Jinan](http://www.jinan.gov.cn/col/col28/index.html)!
